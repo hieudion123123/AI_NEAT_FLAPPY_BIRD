@@ -4,7 +4,6 @@ import time
 import os
 import random
 import Bird
-import Pipe
 import Base
 pygame.font.init()
 
